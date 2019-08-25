@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.1';
+    $lang['version_language'] = '1.0.2';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -33,7 +33,6 @@
     $lang['your_username'] = "Votre Pseudo";
     $lang['your_password'] = "Votre Mot de passe";
     $lang['confirm_your_password'] = "Confirmer votre mot de passe";
-    $lang['your_email'] = "Votre Email";
 
     $lang['success_signup'] = "Vous êtes inscrit avec succès !";
     $lang['account_exist_signup'] = "Un compte existe déjà sous ces identifiants";
