@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.0';
+    $lang['version_language'] = '1.0.1';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -138,5 +138,42 @@
     $lang['post_delete'] = "Cette publication vient d'être supprimé !";
     $lang['post_delete_error'] = "Cette publication est déjà supprimé !";
 
+    // 1.0.1 AJOUTS
+    $lang['developer_account'] = "Espace développeur";
+    $lang['developer_bio'] = "Vôtre biographie de développeur";
+    $lang['developer_link'] = "Lien";
+    $lang['developer_name'] = "Nom de vôtre lien";
+    $lang['developer_add'] = "Ajouter un lien";
+    $lang['developer_remove'] = "Supprimer le lien";
+    $lang['developer_update'] = "Mettre à jour";
+    $lang['developer_update_success'] = "Vous avez mis à jour vos informations !";
+    $lang['developer_lists'] = "Listes des demandes";
+    $lang['developer_list_valid'] = "Valider la demande";
+    $lang['developer_list_refuse'] = "Refuser la demande";
+    $lang['developer_bio_updated'] = "Vôtre biographie à été mise à jour !";
+    $lang['developer_links_updated'] = "Vos liens sont mis à jour !";
 
+    $lang['developer_discord_message'] = "Chaque développeur doit être sur notre Discord ! <a href='https://discord.gg/MwZWYMY'>Rejoindre maintenant !</a>";
+    $lang['developer_demande_language'] = "Langage (Multiple sélection)";
+    $lang['developer_demande_presentation'] = "Présentez-vous";
+    $lang['developer_demande_finish_button'] = "Faire ma demande";
+    $lang['developer_error'] = "Erreur: Certains champs sont vides !";
+    $lang['developer_demande_error'] = "Vous avez déjà faite une demande !";
+    $lang['developer_demande_success'] = "Votre demande vient d'être effectué ! Vous allez recevoir une réponse dans les 7 prochains jours !";
+    $lang['developer_demandes'] = "Vos demandes";
+    $lang['developer_demandes_wait'] = "En attente";
+    $lang['developer_demandes_deny'] = "Refusée";
+    $lang['developer_demandes_success'] = "Validée";
+    $lang['developer_languages'] = "Langages";
+    $lang['developer_demande_user'] = "Demande de";
+    $lang['developer_button_valide'] = "Valider";
+    $lang['developer_button_deny'] = "Refuser";
+    $lang['developer_demande_error_admin'] = "Vous avez refusé cette demande !";
+    $lang['developer_demande_success_admin'] = "Votre avez validé cette demande !";
+
+    $lang['developer_faq_demande_title'] = "A quoi sert ma demande ?";
+    $lang['developer_faq_demande_description'] = "Votre demande pour devenir développeur va permettre de vous référencer sur l'application. De plus, une fois votre demande \"Validée\", vous pourrez modifier votre page.<br>
+    Une demande peut pendre 1 semaine à se faire. Cependant, vous ne serrez pas référencé directement sur l'application, il faudra que nous mettions à jour nos applications sur les divers OS"; //<br> = sauter une Ligne
+    $lang['developer_faq_languages_title'] = "Un langage de programmation n'est pas dans la liste. Comment faire ?";
+    $lang['developer_faq_language_description'] = "Nous mettons principalement les langages les plus utilisés, c'est à dire que les langages peu utilisés ne sont pas forcement mis. Cependant, s'il s'agit d'un langage utilisé par de nombreux développeurs, nous mettrons à jour afin d'agrandir notre liste.";
 ?>
