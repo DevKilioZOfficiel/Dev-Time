@@ -4,7 +4,7 @@
     $lang['code_language'] = 'CA';
     $lang['code_language_small_txt'] = 'ca';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.1';
+    $lang['version_language'] = '1.0.2';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -175,4 +175,13 @@
     Une demande peut pendre jusqu'à 1 semaine à se faire. Cependant, vous ne serrez pas référencé directement sur l'application, il faudra que nous l'a mettions à jour d'abord"; //<br> = sauter une ligne
     $lang['developer_faq_languages_title'] = "Un langage de programmation n'est pas dans la liste. Que faire ?";
     $lang['developer_faq_language_description'] = "Nous mettons principalement les langages les plus utilisés, ce qui fait que les langages peu utilisés et peu connus ne sont pas forcement mis. S'il s'agit d'un langage utilisé par de nombreux développeurs, nous le rajouterons avec plaisir afin d'agrandir notre liste.";
-?>
+
+	// 1.0.2 AJOUTS
+	$lang['success__message_post_success'] = "Le message vient d'être publié!";
+	$lang['error__message_post_error'] = "Oups! Le message est déjà publié!";
+	$lang['message_user_typing'] = "Il y a %s personne en train d'écrire!";
+	$lang['message_users_typing'] = "Il y a %s personnes en train d'écrire!";
+	$lang['new_message_post'] = "Il y a %s nouveau message!";
+	$lang['new_messages_post'] = "Il y a %s nouveaux messages!";
+	$lang['button__post_comment'] = "Publier le commentaire";
+	?>
