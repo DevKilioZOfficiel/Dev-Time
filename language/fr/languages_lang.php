@@ -191,5 +191,5 @@
     $lang['course__title'] = "Titre de votre cours";
     $lang['course__button'] = "Créer le tutoriel";
     $lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
-    $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel ! Regardez-le ici %s";
+    $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez-le ici %s";
 ?>
