@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.6';
+    $lang['version_language'] = '1.0.7';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -176,20 +176,20 @@
     $lang['developer_faq_languages_title'] = "Un langage de programmation n'est pas dans la liste. Que faire ?";
     $lang['developer_faq_language_description'] = "Nous mettons principalement les langages les plus utilisés, ce qui fait que les langages peu utilisés et peu connus ne sont pas forcement mis. S'il s'agit d'un langage utilisé par de nombreux développeurs, nous le rajouterons avec plaisir afin d'agrandir notre liste.";
 
-	// 1.0.2 AJOUTS
-	$lang['success__message_post_success'] = "Le message vient d'être publié!";
-	$lang['error__message_post_error'] = "Oups! Le message est déjà publié!";
-	$lang['message_user_typing'] = "Il y a %s personne en train d'écrire!";
-	$lang['message_users_typing'] = "Il y a %s personnes en train d'écrire!";
-	$lang['new_message_post'] = "Il y a %s nouveau message!";
-	$lang['new_messages_post'] = "Il y a %s nouveaux messages!";
-	$lang['button__post_comment'] = "Publier le commentaire";
-	
-	// 1.0.3 AJOUTS
-	$lang['add_course'] = "Créer un tutoriel";
-	$lang['choose_language'] = "Choisir un langage"; 
-	$lang['course__title'] = "Titre de votre tutoriel";
-	$lang['course__button'] = "Créer le tutoriel";
-	$lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
-	$lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez le ici %s";
-	?>
+    // 1.0.2 AJOUTS
+    $lang['success__message_post_success'] = "Le message vient d'être publié!";
+    $lang['error__message_post_error'] = "Oups! Le message a déjà été publié!";
+    $lang['message_user_typing'] = "Il y a %s personne en train d'écrire!";
+    $lang['message_users_typing'] = "Il y a %s personnes en train d'écrire!";
+    $lang['new_message_post'] = "Il y a %s nouveau message!";
+    $lang['new_messages_post'] = "Il y a %s nouveaux messages!";
+    $lang['button__post_comment'] = "Publier le commentaire";
+
+    // 1.0.3 AJOUTS
+    $lang['add_course'] = "Créer un tutoriel";
+    $lang['choose_language'] = "Choisir un langage"; 
+    $lang['course__title'] = "Titre de votre tutoriel";
+    $lang['course__button'] = "Créer le tutoriel";
+    $lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
+    $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez-le ici %s";
+?>
