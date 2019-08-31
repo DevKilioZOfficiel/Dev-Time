@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.4';
+    $lang['version_language'] = '1.0.5';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -184,4 +184,12 @@
 	$lang['new_message_post'] = "Il y a %s nouveau message!";
 	$lang['new_messages_post'] = "Il y a %s nouveaux messages!";
 	$lang['button__post_comment'] = "Publier le commentaire";
+	
+	// 1.0.3 AJOUTS
+	$lang['add_course'] = "Créer un tutoriel";
+	$lang['choose_language'] = "Choisir un langage"; 
+	$lang['course__title'] = "Titre de votre cours";
+	$lang['course__button'] = "Créer le tutoriel";
+	$lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
+	$lang['course__create_post'] = "Je viens de publier un nouveau tutoriel ! Regardez le ici %s";
 	?>
