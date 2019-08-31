@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.5';
+    $lang['version_language'] = '1.0.6';
 
     // MENU
     $lang['navigation'] = "Navigation";
