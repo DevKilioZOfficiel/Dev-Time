@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'PT';
     $lang ['code_language_small_txt'] = 'pt';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.0';
+    $lang ['version_language'] = '1.0.1';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -175,4 +175,21 @@
     Um pedido pode levar até uma semana para ser tratado. No entanto, você não será referenciado diretamente na aplicação, será necessário que atualizemos a aplicação nos vários sistemas operacionais";
     $lang ['developer_faq_languages_title'] = "Uma linguagem de programação não está na lista. O que fazer?";
     $lang ['developer_faq_language_description'] = "Nós usamos principalmente as linguagens mais usados, o que significa que as linguagens pouco usadas não são necessariamente postos. No entanto, se for uma linguagem usada por muitos desenvolvedores, atualizaremos para expandir nossa lista.";
+
+    // 1.0.2 ADIÇÕES
+    $lang['success__message_post_success'] = "A mensagem foi publicada!";
+    $lang['error__message_post_error'] = "Oops! A mensagem já foi publicada!";
+    $lang['message_user_typing'] = "Há %s pessoa a escrever!";
+    $lang['message_users_typing'] = "Há %s pessoas a escrever!";
+    $lang['new_message_post'] = "Há %s nova mensagem!";
+    $lang['new_messages_post'] = "Há %s novas mensagem!";
+    $lang['button__post_comment'] = "Publicar o comentário";
+	
+    // 1.0.3 ADIÇÕES
+    $lang['add_course'] = "Criar um tutorial";
+    $lang['choose_language'] = "Escolher o idioma"; 
+    $lang['course__title'] = "Título do tutorial";
+    $lang['course__button'] = "Publicar o tutorial";
+    $lang['course__created'] = "Sucesso! O tutoriel está agora disponível no seu perfil!";
+    $lang['course__create_post'] = "Acabei de publicar um tutoriel! Je viens de publier un nouveau tutoriel! Leia-o aqui %s";
 ?>
