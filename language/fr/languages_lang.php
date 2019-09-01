@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.7';
+    $lang['version_language'] = '1.0.7.1';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -184,7 +184,7 @@
     $lang['new_message_post'] = "Il y a %s nouveau message!";
     $lang['new_messages_post'] = "Il y a %s nouveaux messages!";
     $lang['button__post_comment'] = "Publier le commentaire";
-
+	
     // 1.0.3 AJOUTS
     $lang['add_course'] = "Créer un tutoriel";
     $lang['choose_language'] = "Choisir un langage"; 
@@ -192,4 +192,8 @@
     $lang['course__button'] = "Créer le tutoriel";
     $lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
     $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez-le ici %s";
-?>
+	
+	// 1.0.3.1 AJOUTS
+	$lang['success_like_post'] = "Vous venez d'aimer cette publication avec succès !";
+	$lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication avec succès !";
+	?>
