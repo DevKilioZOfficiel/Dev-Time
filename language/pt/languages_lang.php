@@ -4,14 +4,14 @@
     $lang ['code_language'] = 'PT';
     $lang ['code_language_small_txt'] = 'pt';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.1';
+    $lang ['version_language'] = '1.0.2';
 
     // MENU
     $lang ['navigation'] = "Navegação";
     $lang ['open_menu'] = 'Abrir menu';
     $lang ['close_menu'] = 'Fechar menu';
     $lang ['news__menu'] = 'Notícias';
-    $lang ['search_txt'] = 'Pesquisar ...';
+    $lang ['search_txt'] = 'Pesquisar...';
 
     // HOME
     $lang ['welcome_message'] = "Bem-vindo à rede social dos desenvolvedores! Encontre muitos desenvolvedores em vários campos!";
@@ -192,4 +192,8 @@
     $lang['course__button'] = "Publicar o tutorial";
     $lang['course__created'] = "Sucesso! O tutoriel está agora disponível no seu perfil!";
     $lang['course__create_post'] = "Acabei de publicar um tutoriel! Je viens de publier un nouveau tutoriel! Leia-o aqui %s";
+
+    // 1.0.3.1 ADIÇÕES
+    $lang['success_like_post'] = "Você acabou de dar um gosto nesta publicação com sucesso!";
+    $lang['success_dislike_post'] = "Você acabou de tirar o gosto da publicação com sucesso!";
 ?>
