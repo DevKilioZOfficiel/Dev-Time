@@ -194,6 +194,6 @@
     $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez-le ici %s";
 	
     // 1.0.3.1 AJOUTS
-    $lang['success_like_post'] = "Vous venez d'aimer cette publication avec succès !";
-    $lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication avec succès !";
+    $lang['success_like_post'] = "Vous venez d'aimer cette publication avec succès!";
+    $lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication avec succès!";
 ?>
