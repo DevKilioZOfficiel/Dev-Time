@@ -4,7 +4,7 @@
     $lang['code_language'] = 'CA';
     $lang['code_language_small_txt'] = 'ca';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.5';
+    $lang['version_language'] = '1.0.6';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -193,14 +193,14 @@
     $lang['course__created'] = "Succès! Votre tutoriel est désormais disponible sur votre profil!";
     $lang['course__create_post'] = "Je viens de publier un nouveau tutoriel! Regardez-le ici %s";
 	
-	// 1.0.3.1 AJOUTS
-	$lang['success_like_post'] = "Vous venez d'aimer cette publication avec succès !";
-	$lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication avec succès !";
+    // 1.0.3.1 AJOUTS
+    $lang['success_like_post'] = "Vous venez d'aimer cette publication!";
+    $lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication!";
 	
-	// 1.0.4 AJOUTS
-	$lang['add_new_conversation_success'] = "Succès! La conversation avec %s est désormais créé!";
-	$lang['add_new_conversation_error'] = "Oups! La conversation avec %s n'a pas été créé!";
-	$lang['messages'] = "Discussions privées";
-	$lang['start_conversation'] = "%s vient de commencer la conversation!";
-	$lang['start_conversation_notification'] = "%s vient de créer une discussion privé";
-	?>
+    // 1.0.4 AJOUTS
+    $lang['add_new_conversation_success'] = "Succès! La conversation avec %s a été créée!";
+    $lang['add_new_conversation_error'] = "Oups! La conversation avec %s n'a pas été créée!";
+    $lang['messages'] = "Discussions privées";
+    $lang['start_conversation'] = "%s vient de commencer la conversation!";
+    $lang['start_conversation_notification'] = "%s vient de créer une discussion priveé";
+?>
