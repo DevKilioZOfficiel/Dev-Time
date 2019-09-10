@@ -198,8 +198,8 @@
 	$lang['success_dislike_post'] = "Vous venez de ne plus aimer cette publication!";
 	
 	// 1.0.4 AJOUTS
-	$lang['add_new_conversation_success'] = "Succès! La conversation avec %s est désormais créé!";
-	$lang['add_new_conversation_error'] = "Oups! La conversation avec %s n'a pas été créé!";
+	$lang['add_new_conversation_success'] = "Succès! La conversation avec %s est désormais créée!";
+	$lang['add_new_conversation_error'] = "Oups! La conversation avec %s n'a pas été créée!";
 	$lang['messages'] = "Discussions privées";
 	$lang['start_conversation'] = "%s vient de commencer la conversation!";
 	$lang['start_conversation_notification'] = "%s vient de créer une discussion privée";
