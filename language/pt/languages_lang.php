@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'PT';
     $lang ['code_language_small_txt'] = 'pt';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.2';
+    $lang ['version_language'] = '1.0.3';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -196,4 +196,15 @@
     // 1.0.3.1 ADIÇÕES
     $lang['success_like_post'] = "Você acabou de dar um gosto nesta publicação com sucesso!";
     $lang['success_dislike_post'] = "Você acabou de tirar o gosto da publicação com sucesso!";
+	
+    // 1.0.4 ADIÇÕES
+    $lang['add_new_conversation_success'] = "A conversa com %s foi criada com sucesso!";
+    $lang['add_new_conversation_error'] = "Oops! A conversa com %s não foi criada.";
+    $lang['messages'] = "Conversas privadas";
+    $lang['start_conversation'] = "%s acabou de começar uma conversa!";
+    $lang['start_conversation_notification'] = "%s acabou de criar uma conversa privada!";
+	
+    // 1.0.4.1 ADIÇÕES
+    $lang['new_private_message'] = "%s mandou uma nova mensagem!";
+    $lang['user_mp_typing'] = "%s está a escrever!";
 ?>
