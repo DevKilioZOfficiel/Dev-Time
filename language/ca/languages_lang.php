@@ -1,8 +1,8 @@
 <?php
     //INFO LANGUE
-    $lang['name_language'] = 'Français (Canadien)';
-    $lang['code_language'] = 'CA';
-    $lang['code_language_small_txt'] = 'ca';
+    $lang['name_language'] = 'Français';
+    $lang['code_language'] = 'FR';
+    $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
     $lang['version_language'] = '1.0.6';
 
@@ -211,7 +211,6 @@
 	// 1.0.5 AJOUTS
 	$lang['banner'] = "Votre bannière";
 	$lang['logo'] = "Votre avatar";
-	$lang['banner'] = "Votre bannière";
 	$lang['reason_delete'] = "Raison de la suppression";
 	$lang['delete_account'] = "Supprimer mon compte !";
 	$lang['delete_account_success'] = "Votre compte est désormais supprimé ! Vos données sont toujours disponible durant 96h afin de vérifier et d'annuler votre demande si vous changez d'avis."; 
