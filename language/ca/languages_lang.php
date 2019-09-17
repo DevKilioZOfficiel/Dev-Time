@@ -1,8 +1,8 @@
 <?php
     //INFO LANGUE
-    $lang['name_language'] = 'Français';
-    $lang['code_language'] = 'FR';
-    $lang['code_language_small_txt'] = 'fr';
+    $lang['name_language'] = 'Français (Canadien)';
+    $lang['code_language'] = 'CA';
+    $lang['code_language_small_txt'] = 'ca';
     $lang['author_language'] = 'KilioZ';
     $lang['version_language'] = '1.0.6';
 
