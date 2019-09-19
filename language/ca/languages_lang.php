@@ -72,7 +72,7 @@
     $lang['project_link'] = "Lien du projet";
     $lang['button_add_project'] = "Ajouter";
     $lang['button_close'] = "Fermer";
-    $lang['add_project_success'] = "Votre project a été ajouté avec succès!";
+    $lang['add_project_success'] = "Votre projet a été ajouté avec succès!";
 
     $lang['publish_profile_to'] = "à publié sur le profil de %s";
     $lang['share_profile_to'] = "à partagé la publication de %s";
