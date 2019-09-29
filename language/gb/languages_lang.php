@@ -184,7 +184,7 @@
     $lang['new_message_post'] = "There are %s new message!";
     $lang['new_messages_post'] = "There are %s new messages!";
     $lang['button__post_comment'] = "Publish the message";
-	
+    
     // 1.0.3 AJOUTS
     $lang['add_course'] = "Create a tutorial";
     $lang['choose_language'] = "Choose a language"; 
@@ -192,33 +192,33 @@
     $lang['course__button'] = "Create the tutorial";
     $lang['course__created'] = "Success! Your tutorial is now available on your profile!";
     $lang['course__create_post'] = "I just published a new tutorial! Look at it here %s";
-	
-	// 1.0.3.1 AJOUTS
-	$lang['success_like_post'] = "You just liked this publication!";
-	$lang['success_dislike_post'] = "You have just stopped enjoying this publication!";
-	
-	// 1.0.4 AJOUTS
-	$lang['add_new_conversation_success'] = "Success! The conversation with %s is now created!";
-	$lang['add_new_conversation_error'] = "Oops! The conversation with %s wasn't created!";
-	$lang['messages'] = "Private discussions";
-	$lang['start_conversation'] = "%s has just started the conversation!";
-	$lang['start_conversation_notification'] = "%s has just created a private discussion";
-	
-	// 1.0.4.1 AJOUTS
-	$lang['new_private_message'] = "%s has just sent a new message!";
-	$lang['user_mp_typing'] = "%s has just sent a new message!";
-	
-	// 1.0.5 AJOUTS
-	$lang['banner'] = "Your banner";
-	$lang['logo'] = "Your avatar";
-	$lang['reason_delete'] = "Reason for deletion";
-	$lang['delete_account'] = "Delete my account!";
-	$lang['delete_account_success'] = "Your account is now deleted! Your data is always available for 96 hours to check and cancel your request if you change your mind."; 
-	$lang['delete_account_error'] = "Oops! The password is incorrect.";
-	
+    
+    // 1.0.3.1 AJOUTS
+    $lang['success_like_post'] = "You just liked this publication!";
+    $lang['success_dislike_post'] = "You have just stopped enjoying this publication!";
+    
+    // 1.0.4 AJOUTS
+    $lang['add_new_conversation_success'] = "Success! The conversation with %s is now created!";
+    $lang['add_new_conversation_error'] = "Oops! The conversation with %s wasn't created!";
+    $lang['messages'] = "Private discussions";
+    $lang['start_conversation'] = "%s has just started the conversation!";
+    $lang['start_conversation_notification'] = "%s has just created a private discussion";
+    
+    // 1.0.4.1 AJOUTS
+    $lang['new_private_message'] = "%s has just sent a new message!";
+    $lang['user_mp_typing'] = "%s has just sent a new message!";
+    
+    // 1.0.5 AJOUTS
+    $lang['banner'] = "Your banner";
+    $lang['logo'] = "Your avatar";
+    $lang['reason_delete'] = "Reason for deletion";
+    $lang['delete_account'] = "Delete my account!";
+    $lang['delete_account_success'] = "Your account is now deleted! Your data is always available for 96 hours to check and cancel your request if you change your mind."; 
+    $lang['delete_account_error'] = "Oops! The password is incorrect.";
+    
     // 1.0.6 AJOUTS (1.0.1)
-	$lang['edit__theme'] = "Your favorite theme";
-	$lang['edit__theme_success'] = "You just switched to the theme %s!";
-	$lang['theme__light'] = "Light";
-	$lang['theme__dark'] = "Dark";
+    $lang['edit__theme'] = "Your favorite theme";
+    $lang['edit__theme_success'] = "You just switched to the theme %s!";
+    $lang['theme__light'] = "Light";
+    $lang['theme__dark'] = "Dark";
 ?>
