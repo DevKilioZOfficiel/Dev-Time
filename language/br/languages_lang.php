@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'BR';
     $lang ['code_language_small_txt'] = 'br';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.3';
+    $lang ['version_language'] = '1.0.4';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -184,7 +184,7 @@
     $lang['new_message_post'] = "Há %s nova mensagem!";
     $lang['new_messages_post'] = "Há %s novas mensagem!";
     $lang['button__post_comment'] = "Publicar o comentário";
-	
+
     // 1.0.3 ADIÇÕES
     $lang['add_course'] = "Criar um tutorial";
     $lang['choose_language'] = "Escolher o idioma"; 
@@ -196,15 +196,29 @@
     // 1.0.3.1 ADIÇÕES
     $lang['success_like_post'] = "Você acabou de dar um gosto nesta publicação com sucesso!";
     $lang['success_dislike_post'] = "Você acabou de tirar o gosto da publicação com sucesso!";
-	
+
     // 1.0.4 ADIÇÕES
     $lang['add_new_conversation_success'] = "A conversa com %s foi criada com sucesso!";
     $lang['add_new_conversation_error'] = "Oops! A conversa com %s não foi criada.";
     $lang['messages'] = "Conversas privadas";
     $lang['start_conversation'] = "%s acabou de começar uma conversa!";
     $lang['start_conversation_notification'] = "%s acabou de criar uma conversa privada!";
-	
+
     // 1.0.4.1 ADIÇÕES
     $lang['new_private_message'] = "%s mandou uma nova mensagem!";
-    $lang['user_mp_typing'] = "%s está escrevendo!";
+    $lang['user_mp_typing'] = "%s está a escrever!";
+
+    // 1.0.5 ADIÇÕES
+    $lang['banner'] = "Seu banner";
+    $lang['logo'] = "Seu avatar";
+    $lang['reason_delete'] = "Razão da exclusão";
+    $lang['delete_account'] = "Excluir minha conta";
+    $lang['delete_account_success'] = "A sua conta foi excluida! Os seus dados estarão disponíveis durante 96h para poder cancelar o seu pedido caso mude de ideais."; 
+    $lang['delete_account_error'] = "Oops! A senha senha está incorreta.";
+
+    // 1.1 ADIÇÕES (1.0.6)
+    $lang['edit__theme'] = "Seu tema favorito";
+    $lang['edit__theme_success'] = "Você acabou de trocar para o tema %s!";
+    $lang['theme__light'] = "Claro";
+    $lang['theme__dark'] = "Escuro";
 ?>
