@@ -4,7 +4,7 @@
     $lang['code_language'] = 'CA';
     $lang['code_language_small_txt'] = 'ca';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.6';
+    $lang['version_language'] = '1.0.7';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -215,4 +215,10 @@
 	$lang['delete_account'] = "Supprimer mon compte !";
 	$lang['delete_account_success'] = "Votre compte est désormais supprimé ! Vos données sont toujours disponible durant 96h afin de vérifier et d'annuler votre demande si vous changez d'avis."; 
 	$lang['delete_account_error'] = "Oups ! Le mot de passe est incorrect.";
+	
+    // 1.0.6 AJOUTS (1.0.7)
+	$lang['edit__theme'] = "Votre thème préféré";
+	$lang['edit__theme_success'] = "Vous venez de passer sur le thème %s!";
+	$lang['theme__light'] = "Clair";
+	$lang['theme__dark'] = "Foncé";
 ?>

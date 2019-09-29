@@ -4,7 +4,7 @@
     $lang['code_language'] = 'US';
     $lang['code_language_small_txt'] = 'us';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.0';
+    $lang['version_language'] = '1.0.1';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -214,5 +214,11 @@
 	$lang['reason_delete'] = "Reason for deletion";
 	$lang['delete_account'] = "Delete my account!";
 	$lang['delete_account_success'] = "Your account is now deleted! Your data is always available for 96 hours to check and cancel your request if you change your mind."; 
-	$lang['delete_account_error'] = "Oops! The password is incorrect.";
+	$lang['delete_account_error'] = "Oops! The password is incorrect.";	
+	
+    // 1.0.6 AJOUTS (1.0.1)
+	$lang['edit__theme'] = "Your favorite theme";
+	$lang['edit__theme_success'] = "You just switched to the theme %s!";
+	$lang['theme__light'] = "Light";
+	$lang['theme__dark'] = "Dark";
 ?>
