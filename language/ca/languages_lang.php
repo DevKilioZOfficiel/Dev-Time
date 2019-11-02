@@ -263,9 +263,9 @@
     $lang['formation__start'] = "Année de lancement";
     $lang['formation__end'] = "Année de fin";
     $lang['formation__description'] = "Description de votre formation";
-    $lang['formation__button_submit'] = "Ajouter votre compétence";
+    $lang['formation__button_submit'] = "Ajouter votre formation";
     $lang['formation__button_delete'] = "Supprimer votre formation";
-    $lang['formation__button_update'] = "Modifier votre compétence";
+    $lang['formation__button_update'] = "Modifier votre formation";
     $lang['formation__create_success'] = "Votre formation vient d'être publié!";
     $lang['formation__create_error'] = "Votre formation n'est pas publié!";
     $lang['formation__delete_success'] = "Votre formation vient d'être supprimé!";
