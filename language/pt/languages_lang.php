@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'PT';
     $lang ['code_language_small_txt'] = 'pt';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.4';
+    $lang ['version_language'] = '1.0.5';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -221,4 +221,51 @@
     $lang['edit__theme_success'] = "Você acabou de trocar para o tema %s!";
     $lang['theme__light'] = "Claro";
     $lang['theme__dark'] = "Escuro";
+
+    // 1.1.1 (1.0.7)
+    $lang['advanced_settings'] = "Definições avançadas";
+    $lang['add_competence'] = "Adicionar uma competência";
+    $lang['add_formation'] = "Adicionar uma formação";
+    $lang['notification__follow_user'] = "Você agora segue %s!";
+    $lang['notification__unfollow_user'] = "Você não segue mais %s!";
+    $lang['notification__follow_error'] = "Você não pode se seguir a si mesmo.";
+    $lang['500_error'] = "Erro 500";
+    $lang['500_error_message'] = "Um erro ocorreu...";
+    $lang['404_error'] = "Erro 404";
+    $lang['404_error_message'] = "Oops! Isso não está mais disponível em Dev-Time.";
+    $lang['403_error'] = "Erro 403";
+    $lang['403_error_message'] = "Oops! Você não tem acesso a isso!";
+    $lang['profile__competence'] = "Competências";
+    $lang['profile__formation'] = "Formações";
+    $lang['competence__name'] = "Nome da competência";
+    $lang['competence__category'] = "Categoria da competência";
+    $lang['competence__category_choose'] = "Escolher uma categoria";
+    $lang['competence__level'] = "Nível da sua competência";
+    $lang['competence__button_submit'] = "Adicionar competência";
+    $lang['competence__button_delete'] = "Deletar competência";
+    $lang['competence__button_update'] = "Modificar competência";
+    $lang['competence__create_success'] = "Competência publicada!";
+    $lang['competence__create_error'] = "Competência não publicada!";
+    $lang['competence__delete_success'] = "A sua competência acabou de ser deletada!";
+    $lang['competence__update_success'] = "A sua competência acabou de ser modificada!";
+    $lang['competence__lvl25'] = "Iniciante";
+    $lang['competence__lvl45'] = "Aprendizagem";
+    $lang['competence__lvl65'] = "Adquirido";
+    $lang['competence__lvl80'] = "Dominado";
+    $lang['formation__name'] = "Nome da formação";
+    $lang['formation__url'] = "Website da formação";
+    $lang['formation__start'] = "Ano de lançamento";
+    $lang['formation__end'] = "Ano de fim";
+    $lang['formation__description'] = "Descrição da formação";
+    $lang['formation__button_submit'] = "Adicionar formação";
+    $lang['formation__button_delete'] = "Deletar formação";
+    $lang['formation__button_update'] = "Modificar formação";
+    $lang['formation__create_success'] = "Formação publicada!";
+    $lang['formation__create_error'] = "Formação não publicada!";
+    $lang['formation__delete_success'] = "A sua formação acabou de ser deletada!";
+    $lang['formation__update_success'] = "A sua formação acabou de ser modificada!";
+    $lang['remove_share'] = "Deletar partilha";
+    $lang['remove_share_success'] = "A sua partilha foi deletada!";
+    $lang['share_success'] = "Você partilhou a publicação de %s!";
+    $lang['share_error'] = "Você já partilou a publicação de %s!";
 ?>
