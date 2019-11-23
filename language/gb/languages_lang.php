@@ -4,7 +4,7 @@
     $lang['code_language'] = 'GB';
     $lang['code_language_small_txt'] = 'gb';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.2';
+    $lang['version_language'] = '1.0.3';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -275,4 +275,77 @@
     $lang['remove_share_success'] = "Your share has been deleted!";
     $lang['share_success'] = "You have shared the publication of %s!";
     $lang['share_error'] = "You have already shared the publication of %s!";
+	
+    // 1.1.2 (1.0.8)
+    $lang['connect_to'] = "Login with %s!";
+    $lang['connected_success'] = "Well done! You have just linked your %s account!";
+    $lang['connected_error'] = "Oops! An error occurred during the %s link!";
+    $lang['welcome_txt'] = "Welcome %s!";
+    $lang['your_tweet'] = "Your tweet";
+    $lang['publish_tweet'] = "Publish the tweet";
+    $lang['tweet_publish_success'] = "The tweet has just been published!";
+    $lang['tweet_publish_error'] = "The tweet is not published!";
+    
+    $lang['course__premium'] = "Tutorial premium";
+    $lang['user__premium__about_us'] = "Premium member since %s";
+    $lang['user__premium'] = "This user is a Premium member!";
+    
+    $lang['report__reason'] = "Reason for reporting";
+    $lang['blocked__message_01'] = "%s you blocked! It is impossible to see his publications!";
+    $lang['blocked__message_02'] = "You blocked %s! It is impossible to see his publications!";
+    
+    $lang['add_credit'] = "Credit the account";
+    $lang['credit_success'] = "The code is valid and you are credited with %s€!";
+    $lang['credit_error'] = "The %s code is invalid!";
+    $lang['go_premium'] = "Become Premium";
+    $lang['premium'] = "Premium";
+    $lang['expire_premium'] = "The Premium expires on %s";
+    $lang['buy'] = "Buy";
+    
+    $lang['date'] = "d/m/Y \à H:i:s"; // Voir https://www.php.net/manual/fr/function.date.php pour plus d'info
+    
+    $lang['no'] = "No";
+    $lang['yes'] = "yes";
+    
+    $lang['paiement__success'] = "Successful payment! You are now %s!";
+    $lang['paiement__error'] = "Error when paying! The error is as follows: %s!";
+    $lang['paiement__error__money'] = "Missing money";
+    $lang['paiement__error__500'] = "Unknown, contact support";
+    $lang['paiement__method_sold'] = "Balance";
+    $lang['paiement__buy__add_credit'] = "Adding credit";
+    $lang['paiement__buy__premium'] = "Purchase of Premium subscription";
+    $lang['money_actual'] = "You have %s€!";
+    
+    $lang['change__design'] = "Change design";
+    $lang['design__input'] = "Design %s";
+    $lang['design__updated'] = "You have just successfully modified your design!";
+    
+    $lang['custom_badge'] = "Badge customization";
+    $lang['create_badge'] = "Create a badge";
+    $lang['change_badge'] = "Change your badge";
+    $lang['icone_badge'] = "Badge icon";
+    $lang['name_badge'] = "Name of the badge";
+    $lang['color_badge'] = "Color of the badge";
+    $lang['public_badge'] = "Put on the public badge";
+    $lang['create_badge__success'] = "You have just successfully created your badge!";
+    $lang['change_badge__success'] = "You have just successfully changed your badge!";
+    $lang['remove_custom_badge'] = "Remove my custom badge";
+    
+    $lang['boost__publication'] = "Highlight the publication";
+    $lang['boost__publication_remove'] = "Remove the highlight";
+    $lang['boost__success_01'] = "You have just boosted the publication";
+    $lang['boost__success_02'] = "You have just removed the boost from the publication";
+    $lang['boost__message'] = "Publication highlighted!";
+    
+    $lang['pub__create'] = "Create an ad";
+    $lang['pub__url'] = "Advertising link";
+    $lang['pub__file'] = "Image of advertising";
+    $lang['pub__button'] = "Publish the advertisement";
+    
+    $lang['sub__number'] = "%s to %s subscribers";
+    $lang['sub__number__2'] = "%s is a subscriber to %s accounts";
+    $lang['sub__since'] = "Registered since";
+    $lang['sub__subscriptions'] = "Subscriptions";
+    $lang['sub__posts'] = "Publications";
+    $lang['sub__subscribers'] = "Subcribers";
 ?>
