@@ -341,6 +341,8 @@
     $lang['pub__url'] = "Advertising link";
     $lang['pub__file'] = "Image of advertising";
     $lang['pub__button'] = "Publish the advertisement";
+	$lang['pub__success'] = "The ad has been put online!";
+	$lang['pub__error__limit'] = "You have reached the limit. Your ad is not placed online";
     
     $lang['sub__number'] = "%s to %s subscribers";
     $lang['sub__number__2'] = "%s is a subscriber to %s accounts";
@@ -348,5 +350,13 @@
     $lang['sub__subscriptions'] = "Subscriptions";
     $lang['sub__posts'] = "Publications";
     $lang['sub__subscribers'] = "Subcribers";
-?>
+	
+	$lang['stats__month'] = "Statistics during the last 2 months";
+	$lang['stats__agent'] = "Browser statistics";
+	$lang['stats__platform'] = "Stats by OS";
+	$lang['stats__agent_version'] = "Stats by Browser version";
+	$lang['stats__world'] = "Statistics by country";
+	$lang['this_month'] = "This month";
+	$lang['delete'] = "Delete";
+	$lang['stats'] = "Stats";
 ?>
