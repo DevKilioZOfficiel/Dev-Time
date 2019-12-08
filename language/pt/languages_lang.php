@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'PT';
     $lang ['code_language_small_txt'] = 'pt';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.5';
+    $lang ['version_language'] = '1.0.6';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -226,17 +226,21 @@
     $lang['advanced_settings'] = "Definições avançadas";
     $lang['add_competence'] = "Adicionar uma competência";
     $lang['add_formation'] = "Adicionar uma formação";
+
     $lang['notification__follow_user'] = "Você agora segue %s!";
     $lang['notification__unfollow_user'] = "Você não segue mais %s!";
     $lang['notification__follow_error'] = "Você não pode se seguir a si mesmo.";
+
     $lang['500_error'] = "Erro 500";
     $lang['500_error_message'] = "Um erro ocorreu...";
     $lang['404_error'] = "Erro 404";
     $lang['404_error_message'] = "Oops! Isso não está mais disponível em Dev-Time.";
     $lang['403_error'] = "Erro 403";
     $lang['403_error_message'] = "Oops! Você não tem acesso a isso!";
+
     $lang['profile__competence'] = "Competências";
     $lang['profile__formation'] = "Formações";
+
     $lang['competence__name'] = "Nome da competência";
     $lang['competence__category'] = "Categoria da competência";
     $lang['competence__category_choose'] = "Escolher uma categoria";
@@ -248,10 +252,12 @@
     $lang['competence__create_error'] = "Competência não publicada!";
     $lang['competence__delete_success'] = "A sua competência acabou de ser deletada!";
     $lang['competence__update_success'] = "A sua competência acabou de ser modificada!";
+
     $lang['competence__lvl25'] = "Iniciante";
     $lang['competence__lvl45'] = "Aprendizagem";
     $lang['competence__lvl65'] = "Adquirido";
     $lang['competence__lvl80'] = "Dominado";
+
     $lang['formation__name'] = "Nome da formação";
     $lang['formation__url'] = "Website da formação";
     $lang['formation__start'] = "Ano de lançamento";
@@ -264,8 +270,93 @@
     $lang['formation__create_error'] = "Formação não publicada!";
     $lang['formation__delete_success'] = "A sua formação acabou de ser deletada!";
     $lang['formation__update_success'] = "A sua formação acabou de ser modificada!";
+
     $lang['remove_share'] = "Deletar partilha";
     $lang['remove_share_success'] = "A sua partilha foi deletada!";
     $lang['share_success'] = "Você partilhou a publicação de %s!";
     $lang['share_error'] = "Você já partilou a publicação de %s!";
+
+    // 1.1.2 (1.0.8)
+    $lang['connect_to'] = "Login com %s!";
+    $lang['connected_success'] = "Boa! Você acabou de ligar a sua conta %s!";
+    $lang['connected_error'] = "Oops! Um erro ocorreu durante a ligação %s!";
+    $lang['welcome_txt'] = "Bem-vindo %s!";
+    $lang['your_tweet'] = "Seu tweet";
+    $lang['publish_tweet'] = "Publicar tweet";
+    $lang['tweet_publish_success'] = "O tweet acabou de ser publicado!";
+    $lang['tweet_publish_error'] = "O tweet não foi publicado!";
+    
+    $lang['course__premium'] = "Tutorial Premium";
+    $lang['user__premium__about_us'] = "Membro Premium desde %s";
+    $lang['user__premium'] = "Este utilisador é um membro Premium!";
+    
+    $lang['report__reason'] = "Razão do report";
+    $lang['blocked__message_01'] = "%s bloqueou você! É-lhe impossível ver as suas publicações!";
+    $lang['blocked__message_02'] = "Você bloqueou %s! É-lhe impossível ver as suas publicações!";
+    
+    $lang['add_credit'] = "Creditar conta";
+    $lang['credit_success'] = "Código válido e você foi creditado de %s€!";
+    $lang['credit_error'] = "O código %s é inválido!";
+    $lang['go_premium'] = "Ser Premium";
+    $lang['premium'] = "Premium";
+    $lang['expire_premium'] = "O Premium expira no dia %s";
+    $lang['buy'] = "Comprar";
+    
+    $lang['date'] = "d/m/Y \às H:i:s"; // Ver https://www.php.net/manual/pt_BR/function.date.php para mais informações
+    
+    $lang['no'] = "Não";
+    $lang['yes'] = "São";
+    
+    $lang['paiement__success'] = "Pagamento completo! Você é agora %s!";
+    $lang['paiement__error'] = "Erro durante o pagamento! Erro: %s!";
+    $lang['paiement__error__money'] = "Dinheiro em falta";
+    $lang['paiement__error__500'] = "Desconhecido, contate o suporte";
+    $lang['paiement__method_sold'] = "Carteira";
+    $lang['paiement__buy__add_credit'] = "Adicionar fundos";
+    $lang['paiement__buy__premium'] = "Comprar suscrição Premium";
+    $lang['money_actual'] = "Você tem %s€!";
+    
+    $lang['change__design'] = "Trocar de design";
+    $lang['design__input'] = "Design %s";
+    $lang['design__updated'] = "Você acabou de modificar o seu design com sucesso!";
+
+    $lang['custom_badge'] = "Customização do crachá";
+    $lang['create_badge'] = "Criar um crachá";
+    $lang['change_badge'] = "Trocar de crachá";
+    $lang['icone_badge'] = "Ícone do crachá";
+    $lang['name_badge'] = "Nome do crachá";
+    $lang['color_badge'] = "Cor do crachá";
+    $lang['public_badge'] = "Tornar o crachá público";
+    $lang['create_badge__success'] = "Você acabou de criar o seu crachá com scuesso!";
+    $lang['change_badge__success'] = "Você acabou de trocar de crachá com sucesso!";
+    $lang['remove_custom_badge'] = "Remover crachá customizado";
+    
+    $lang['boost__publication'] = "Destacar publicação";
+    $lang['boost__publication_remove'] = "Remover destaque";
+    $lang['boost__success_01'] = "Você acabou de destacar a publicação";
+    $lang['boost__success_02'] = "Você acabou de remover o destaque da publicação";
+    $lang['boost__message'] = "Destacado com sucesso!";
+    
+    $lang['pub__create'] = "Criar uma publicidade";
+    $lang['pub__url'] = "Link da publicidade";
+    $lang['pub__file'] = "Imagem da publicidade";
+    $lang['pub__button'] = "Publicar publicidade";
+    $lang['pub__success'] = "Publicidade postada!";
+    $lang['pub__error__limit'] = "Você atingiu o limite. A sua publicidade não foi postada";
+    
+    $lang['sub__number'] = "%s tem %s seguidores";
+    $lang['sub__number__2'] = "%s segue %s pessoas";
+    $lang['sub__since'] = "Incrito desde";
+    $lang['sub__subscriptions'] = "Segue";
+    $lang['sub__posts'] = "Publicações";
+    $lang['sub__subscribers'] = "Seguidores";
+
+    $lang['stats__month'] = "Estatísticas durante os 2 últimos meses";
+    $lang['stats__agent'] = "Estatísticas por navegador";
+    $lang['stats__platform'] = "Estatísticas por SO (sistema operativo)";
+    $lang['stats__agent_version'] = "Estatísticas por versão de navigador";
+    $lang['stats__world'] = "Estatísticas por país";
+    $lang['this_month'] = "Este mês";
+    $lang['delete'] = "Deletar";
+    $lang['stats'] = "Estatísticas";
 ?>
