@@ -4,7 +4,7 @@
     $lang ['code_language'] = 'BR';
     $lang ['code_language_small_txt'] = 'br';
     $lang ['author_language'] = 'Reydux';
-    $lang ['version_language'] = '1.0.6';
+    $lang ['version_language'] = '1.0.7';
 
     // MENU
     $lang ['navigation'] = "Navegação";
@@ -359,4 +359,14 @@
     $lang['this_month'] = "Este mês";
     $lang['delete'] = "Deletar";
     $lang['stats'] = "Estatísticas";
+
+    // 1.1.3 (1.0.9)
+    $lang['more'] = "Saber mais";
+    $lang['status'] = "Infos servidores";
+    $lang['status__offline'] = "O servidor está offline";
+    $lang['status__online'] = "O servidor está online serveur";
+    $lang['verify__success'] = "Sucesso! A sua conta acabou de ser verificada você já pode se logar";
+    $lang['verify__error'] = "Oops! Código inválido!";
+    $lang['verify__code'] = "Seu código de verificação";
+    $lang['verify__button'] = "Verificar minha conta";
 ?>
