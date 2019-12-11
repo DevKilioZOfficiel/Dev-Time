@@ -359,15 +359,15 @@
     $lang['this_month'] = "Ce mois";
     $lang['delete'] = "Supprimer";
     $lang['stats'] = "Stats";
-    
+
     // 1.1.3 (1.0.9)
     $lang['more'] = "En savoir plus";
-	$lang['status'] = "Infos Serveurs";
+    $lang['status'] = "Infos Serveurs";
     $lang['status__offline'] = "Le serveur est hors ligne";
     $lang['status__online'] = "Le serveur est en ligne";
     $lang['verify__profile'] = "Vérifier votre compte Dev-Time";
     $lang['verify__success'] = "Succès! Votre compte vient d'être vérifié, vous pouvez vous connecter dès maintenant";
     $lang['verify__error'] = "Oups! Le code est incorrect!";
-	$lang['verify__code'] = "Votre code de vérification";
-	$lang['verify__button'] = "Vérifier mon compte";
+    $lang['verify__code'] = "Votre code de vérification";
+    $lang['verify__button'] = "Vérifier mon compte";
 ?>
