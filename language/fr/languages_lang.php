@@ -4,7 +4,7 @@
     $lang['code_language'] = 'FR';
     $lang['code_language_small_txt'] = 'fr';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.1.2';
+    $lang['version_language'] = '1.1.3';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -341,8 +341,8 @@
     $lang['pub__url'] = "Lien de la publicité";
     $lang['pub__file'] = "Image de la publicité";
     $lang['pub__button'] = "Publier la publicité";
-	$lang['pub__success'] = "La publicité à été mise en ligne!";
-	$lang['pub__error__limit'] = "Vous avez atteint la limite. Votre publicité n'est pas mise en ligne";
+    $lang['pub__success'] = "La publicité à été mise en ligne!";
+    $lang['pub__error__limit'] = "Vous avez atteint la limite. Votre publicité n'est pas mise en ligne";
     
     $lang['sub__number'] = "%s à %s abonnés";
     $lang['sub__number__2'] = "%s est abonné à %s comptes";
@@ -350,13 +350,24 @@
     $lang['sub__subscriptions'] = "Abonnements";
     $lang['sub__posts'] = "Publications";
     $lang['sub__subscribers'] = "Abonnés";
-	
-	$lang['stats__month'] = "Statistiques durant les 2 derniers mois";
-	$lang['stats__agent'] = "Statistiques par navigateur";
-	$lang['stats__platform'] = "Stats par OS";
-	$lang['stats__agent_version'] = "Stats par version de Navigateur";
-	$lang['stats__world'] = "Statistiques par pays";
-	$lang['this_month'] = "Ce mois";
-	$lang['delete'] = "Supprimer";
-	$lang['stats'] = "Stats";
+    
+    $lang['stats__month'] = "Statistiques durant les 2 derniers mois";
+    $lang['stats__agent'] = "Statistiques par navigateur";
+    $lang['stats__platform'] = "Stats par OS";
+    $lang['stats__agent_version'] = "Stats par version de Navigateur";
+    $lang['stats__world'] = "Statistiques par pays";
+    $lang['this_month'] = "Ce mois";
+    $lang['delete'] = "Supprimer";
+    $lang['stats'] = "Stats";
+    
+    // 1.1.3 (1.0.9)
+    $lang['more'] = "En savoir plus";
+	$lang['status'] = "Infos Serveurs";
+    $lang['status__offline'] = "Le serveur est hors ligne";
+    $lang['status__online'] = "Le serveur est en ligne";
+    $lang['verify__profile'] = "Vérifier votre compte Dev-Time";
+    $lang['verify__success'] = "Succès! Votre compte vient d'être vérifié, vous pouvez vous connecter dès maintenant";
+    $lang['verify__error'] = "Oups! Le code est incorrect!";
+	$lang['verify__code'] = "Votre code de vérification";
+	$lang['verify__button'] = "Vérifier mon compte";
 ?>

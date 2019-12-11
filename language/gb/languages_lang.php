@@ -4,7 +4,7 @@
     $lang['code_language'] = 'GB';
     $lang['code_language_small_txt'] = 'gb';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.3';
+    $lang['version_language'] = '1.0.4';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -275,7 +275,7 @@
     $lang['remove_share_success'] = "Your share has been deleted!";
     $lang['share_success'] = "You have shared the publication of %s!";
     $lang['share_error'] = "You have already shared the publication of %s!";
-	
+    
     // 1.1.2 (1.0.8)
     $lang['connect_to'] = "Login with %s!";
     $lang['connected_success'] = "Well done! You have just linked your %s account!";
@@ -341,8 +341,8 @@
     $lang['pub__url'] = "Advertising link";
     $lang['pub__file'] = "Image of advertising";
     $lang['pub__button'] = "Publish the advertisement";
-	$lang['pub__success'] = "The ad has been put online!";
-	$lang['pub__error__limit'] = "You have reached the limit. Your ad is not placed online";
+    $lang['pub__success'] = "The ad has been put online!";
+    $lang['pub__error__limit'] = "You have reached the limit. Your ad is not placed online";
     
     $lang['sub__number'] = "%s to %s subscribers";
     $lang['sub__number__2'] = "%s is a subscriber to %s accounts";
@@ -350,13 +350,24 @@
     $lang['sub__subscriptions'] = "Subscriptions";
     $lang['sub__posts'] = "Publications";
     $lang['sub__subscribers'] = "Subcribers";
-	
-	$lang['stats__month'] = "Statistics during the last 2 months";
-	$lang['stats__agent'] = "Browser statistics";
-	$lang['stats__platform'] = "Stats by OS";
-	$lang['stats__agent_version'] = "Stats by Browser version";
-	$lang['stats__world'] = "Statistics by country";
-	$lang['this_month'] = "This month";
-	$lang['delete'] = "Delete";
-	$lang['stats'] = "Stats";
+    
+    $lang['stats__month'] = "Statistics during the last 2 months";
+    $lang['stats__agent'] = "Browser statistics";
+    $lang['stats__platform'] = "Stats by OS";
+    $lang['stats__agent_version'] = "Stats by Browser version";
+    $lang['stats__world'] = "Statistics by country";
+    $lang['this_month'] = "This month";
+    $lang['delete'] = "Delete";
+    $lang['stats'] = "Stats";
+
+    // 1.1.3 (1.0.9)
+    $lang['more'] = "More informations";
+    $lang['status'] = "Status";
+    $lang['status__offline'] = "This server is offline";
+    $lang['status__online'] = "This server is online";
+    $lang['verify__profile'] = "Check your Dev-Time account";
+    $lang['verify__success'] = "Success! Your account has just been verified, you can login now";
+    $lang['verify__error'] = "Oops! The code is wrong!";
+    $lang['verify__code'] = "Your verification code";
+    $lang['verify__button'] = "Check my account";
 ?>
