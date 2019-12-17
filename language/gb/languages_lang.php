@@ -4,7 +4,7 @@
     $lang['code_language'] = 'GB';
     $lang['code_language_small_txt'] = 'gb';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.0.4';
+    $lang['version_language'] = '1.0.5';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -370,4 +370,16 @@
     $lang['verify__error'] = "Oops! The code is wrong!";
     $lang['verify__code'] = "Your verification code";
     $lang['verify__button'] = "Check my account";
+	
+    // 1.1.4
+    $lang['pub__duration'] = "Advertising duration (in days)";
+    $lang['pub__description'] = "A brief description of the advertisement";
+    $lang['pub__title'] = "Advertising title";
+    $lang['pub__images__width'] = "Required image size: 945x170";
+    $lang['pub__images__cube'] = "Required image size: 500x500 or larger";
+    $lang['pub__avantage__premium'] = "You are premium! You are entitled to %s free advertising!";
+    $lang['pub__avantage__partner'] = "You are a partner! You are entitled to %s free advertising!";
+    $lang['day'] = "Day";
+    $lang['days'] = "Days";
+    $lang['pub__no_monney'] = "You don't have the money to put your ad online!";
 ?>
