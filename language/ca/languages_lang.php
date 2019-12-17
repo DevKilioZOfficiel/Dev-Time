@@ -4,7 +4,7 @@
     $lang['code_language'] = 'CA';
     $lang['code_language_small_txt'] = 'ca';
     $lang['author_language'] = 'KilioZ';
-    $lang['version_language'] = '1.1.3';
+    $lang['version_language'] = '1.1.4';
 
     // MENU
     $lang['navigation'] = "Navigation";
@@ -370,4 +370,16 @@
     $lang['verify__error'] = "Oups! Le code est incorrect!";
     $lang['verify__code'] = "Votre code de vérification";
     $lang['verify__button'] = "Vérifier mon compte";
+	
+    // 1.1.4
+    $lang['pub__duration'] = "Durée de la publicité (en jours)";
+    $lang['pub__description'] = "Petite description de la publicité";
+    $lang['pub__title'] = "Titre de la publicité";
+    $lang['pub__images__width'] = "Taille de l'image requise: 945x170";
+    $lang['pub__images__cube'] = "Taille de l'image requise: 500x500 ou plus";
+    $lang['pub__avantage__premium'] = "Vous êtes premium! Vous avez le droit à %s publicité(s) gratuite(s)!";
+    $lang['pub__avantage__partner'] = "Vous êtes partenaire! Vous avez le droit à %s publicité(s) gratuite(s)!";
+    $lang['day'] = "Jour";
+    $lang['days'] = "Jours";
+    $lang['pub__no_monney'] = "Vous n'avez pas l'argent necessaire pour mettre en ligne votre publicité!";
 ?>
