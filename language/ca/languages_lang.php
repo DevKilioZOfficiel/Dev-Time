@@ -34,7 +34,7 @@
     $lang['your_password'] = "Votre mot de passe";
     $lang['confirm_your_password'] = "Confirmer votre mot de passe";
 
-    $lang['success_signup'] = "Vous vous êtes inscrit avec succès !";
+    $lang['success_signup'] = "Vous vous êtes inscrit avec succès ! Pensez à vérifier votre email afin de débloquer votre compte !";
     $lang['account_exist_signup'] = "Oups ! Un compte existe déjà sous ces identifiants";
     $lang['pwd_error_txt'] = "Les mots de passe ne correspondent pas";
     $lang['error__input_clear'] = "Certains champs sont vides";
