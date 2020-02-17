@@ -369,4 +369,107 @@
     $lang['verify__error'] = "Oops! Código inválido!";
     $lang['verify__code'] = "Seu código de verificação";
     $lang['verify__button'] = "Verificar minha conta";
+	
+	// 1.1.4
+	$lang['pub__duration'] = "Durée de la publicité (en jours)";
+	$lang['pub__description'] = "Petite description de la publicité";
+	$lang['pub__title'] = "Titre de la publicité";
+	$lang['pub__images__width'] = "Taille de l'image requise: 945x170";
+	$lang['pub__images__cube'] = "Taille de l'image requise: 500x500 ou plus";
+	$lang['pub__avantage__premium'] = "Vous êtes premium ! Vous avez le droit à %s publicité(s) gratuite(s) !";
+	$lang['pub__avantage__partner'] = "Vous êtes partenaire ! Vous avez le droit à %s publicité(s) gratuite(s) !";
+	$lang['day'] = "Jour";
+	$lang['days'] = "Jours";
+	$lang['pub__no_monney'] = "Vous n'avez pas l'argent necessaire pour mettre en ligne votre publicité !";
+
+	// 1.1.5
+	$lang['ext__profiles'] = "Vos comptes";
+	$lang['ext__profile__add'] = "Ajouter un compte";
+	$lang['ext__profile__button'] = "Ajouter le compte";
+	$lang['ext__profile__error__pwd'] = "Le mot de passe du compte est faux";
+	$lang['ext__profile__error__no_exist'] = "Le profil n'existe pas sur Dev-Time";
+	$lang['ext__profile__error__username'] = "L'identifiant du compte n'existe pas !";
+	$lang['ext__profile__success'] = "Le profil vient d'être rajouté !";
+	$lang['ext__profile__error__add'] = "Le profil est déjà ajouté";
+	$lang['ext__no_account'] = "Vous n'avez pas encore ajouté de compte !";
+	
+	// 1.1.6
+	$lang['premium__promo_code'] = "Code promotionnel";
+	$lang['share__login__required'] = "Connexion requise pour partager votre lien !";
+	$lang['my_website'] = "Mon site Internet";
+	$lang['your_github'] = "Votre Github";
+	$lang['your_website'] = "Votre Site Internet";
+	$lang['website'] = "Site web";
+	$lang['github_success'] = "Votre Github a été mis à jour !";
+	$lang['website_success'] = "Votre Site web a été mis à jour !";
+	$lang['branding'] = "Charte graphique";
+	
+	// FAQ (1.1.6)
+	$lang['default__faq__footer_txt01'] = "Liens utiles";
+	$lang['default__faq__footer_txt02'] = "Partenaires";
+	$lang['start_partner'] = "Devenir partenaire";
+	$lang['default__faq__footer_txt03'] = "Autre";
+	$lang['faq__home'] = "Centre d'aide";
+	$lang['faq__home__description'] = "Bienvenue sur le centre d'aide de Dev-Time ! Ici, vous retrouverez toutes les questions que vous vous posez avec leur réponse !";
+	$lang['faq__views_more'] = "En voir plus";
+	$lang['faq__voting'] = "%s des utilisateurs trouvent cette FAQ utile !"; // Don't add % after %s, it's automatic !
+	$lang['faq__created'] = "Créé le";
+	$lang['faq__edit'] = "Dernière modification";
+	$lang['faq__edit__button'] = "Modifier la FAQ";
+	$lang['faq__vote'] = "Trouvez-vous cette FAQ utile ?";
+	$lang['faq__vote_success'] = "Merci de votre vote !";
+	$lang['faq__vote_error'] = "Vous avez déjà voté !";
+	$lang['faq__vote_login_required'] = "Soyez connecté pour voter !";
+	$lang['faq__result'] = "%s résultat trouvé pour:";
+	$lang['faq__results'] = "%s résultats trouvé pour:";
+	$lang['faq__result2'] = "%s résultat";
+	$lang['faq__results2'] = "%s résultats";
+	
+	// PARRAINAGE (1.1.6)
+	$lang['parrainage'] = "Parrainage";
+	$lang['parrainage_link'] = "Votre lien de parrainage est le suivant: %s";
+	$lang['parrainage_count'] = "Vous avez %s filleuls !";
+	$lang['parrainage_coming_soon'] = "Les bonus arrivent bientôt !";
+	
+	// Profil (1.1.6)
+	$lang['profile__anniversary_date'] = "Votre date de anniversaire";
+	$lang['profile__anniversary_your_day'] = "Bon anniversaire %s ! Vous fêtez vos %s ans !";
+	$lang['profile__anniversary_by_other_user'] = "C'est l'anniversaire de %s (%s ans) !";
+	$lang['edit__anniversary_date'] = "Votre date de naissance vient d'être mis à jour !";
+	
+	$lang['birthdays'] = "Anniversaires";
+	$lang['birthday'] = "Anniversaire";
+	$lang['birthday_today'] = "Anniversaires du jour";
+	$lang['birthday_month'] = "Anniversaires du mois";
+	$lang['january'] = "Janvier";
+	$lang['february'] = "Février";
+	$lang['march'] = "Mars";
+	$lang['april'] = "Avril";
+	$lang['may'] = "Mai";
+	$lang['june'] = "Juin";
+	$lang['july'] = "Juillet";
+	$lang['august'] = "Août";
+	$lang['september'] = "Septembre";
+	$lang['october'] = "Octobre";
+	$lang['november'] = "Novembre";
+	$lang['december'] = "Décembre";
+	$lang['send_birthday_message'] = "Souhaiter son anniversaire";
+	$lang['birthday_message'] = "Salut %s! Je te souhaite un joyeux anniversaire.";
+	
+	$lang['during_your_absence'] = "Pendant votre absence";
+	$lang['posts__followers'] = "Publications de vos abonnements";
+	$lang['posts__alls'] = "Publications de tout le monde";
+	$lang['posts_user_count'] = "%s a publié %s publication";
+	$lang['posts_user_counts'] = "%s a publié %s publications";
+	
+	// 1.1.7
+	$lang['type_account'] = "Type de compte";
+	$lang['pro_account'] = "Passer en compte Pro";
+	$lang['default_account'] = "Passer en compte Particulier";
+	$lang['success_edit_account'] = "Vous venez de modifier le type de profil.";
+	$lang['you_know'] = "Vous connaissez peut-être ?";
+	$lang['forgot_password__success'] = "Vous venez de recevoir un email avec votre nouveau mot de passe !";
+	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
+	$lang['forgot__email_username'] = "Pseudo ou email du compte";
+	$lang['api__developers'] = "API pour développeurs";
 ?>

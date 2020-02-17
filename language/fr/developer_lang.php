@@ -25,6 +25,10 @@
 	// PREMIUM
 	$lang['premium'] = "Premium";
 	$lang['premium__warning'] = "Attention ! Cette API est réservés aux applications \"Premium\"!";
+	$lang['upgrade_premium'] = "Passer l'api en Premium";
+	$lang['current_premium'] = "API déjà Premium";
+	$lang['premium__success'] = "Vous venez de passer cette API en Premium !";
+	$lang['premium__error'] = "Oups ! Vous n'êtes pas prémium, cette API n'est donc pas Premium !";
 	
 	// SETTINGS
     $lang['settings'] = "Paramètres";
@@ -42,6 +46,7 @@
     $lang['stats__average'] = "Moyenne";
     $lang['stats__this_month'] = "Ce mois";
     $lang['stats__last_month'] = "Le mois dernier";
+	$lang['info__accounts_notification'] = "Vous avez %s requêtes sur l'application %s !";
 	
 	// Applications
 	$lang['key'] = "Clé";

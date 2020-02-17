@@ -4,13 +4,13 @@
 	$lang['code_language'] = 'FR';
 	$lang['code_language_small_txt'] = 'fr';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.1.6';
+	$lang['version_language'] = '1.1.7';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
 	$lang['open_menu'] = 'Ouvrir le menu';
 	$lang['close_menu'] = 'Fermer le menu';
-	$lang['news__menu'] = 'Actualité';
+	$lang['news__menu'] = 'Actualités';
 	$lang['search_txt'] = 'Rechercher...';
 
 	// HOME
@@ -417,7 +417,7 @@
 	$lang['faq__created'] = "Créé le";
 	$lang['faq__edit'] = "Dernière modification";
 	$lang['faq__edit__button'] = "Modifier la FAQ";
-	$lang['faq__vote'] = "Trouvez-vous utile cette FAQ ?";
+	$lang['faq__vote'] = "Trouvez-vous cette FAQ utile ?";
 	$lang['faq__vote_success'] = "Merci de votre vote !";
 	$lang['faq__vote_error'] = "Vous avez déjà voté !";
 	$lang['faq__vote_login_required'] = "Soyez connecté pour voter !";
@@ -462,4 +462,15 @@
 	$lang['posts__alls'] = "Publications de tout le monde";
 	$lang['posts_user_count'] = "%s a publié %s publication";
 	$lang['posts_user_counts'] = "%s a publié %s publications";
+	
+	// 1.1.7
+	$lang['type_account'] = "Type de compte";
+	$lang['pro_account'] = "Passer en compte Pro";
+	$lang['default_account'] = "Passer en compte Particulier";
+	$lang['success_edit_account'] = "Vous venez de modifier le type de profil.";
+	$lang['you_know'] = "Vous connaissez peut-être ?";
+	$lang['forgot_password__success'] = "Vous venez de recevoir un email avec votre nouveau mot de passe !";
+	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
+	$lang['forgot__email_username'] = "Pseudo ou email du compte";
+	$lang['api__developers'] = "API pour développeurs";
 ?>

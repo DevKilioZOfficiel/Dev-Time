@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'US';
 	$lang['code_language_small_txt'] = 'us';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.0.6';
+	$lang['version_language'] = '1.0.7';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -462,4 +462,15 @@
 	$lang['posts__alls'] = "Everybody's publications";
 	$lang['posts_user_count'] = "%s published %s publication";
 	$lang['posts_user_counts'] = "%s published %s publications";
+	
+	// 1.1.7
+	$lang['type_account'] = "Type of account";
+	$lang['pro_account'] = "Switching to Pro account";
+	$lang['default_account'] = "Switching to an Individual account";
+	$lang['success_edit_account'] = "You have just changed the profile type.";
+	$lang['you_know'] = "Perhaps you've heard of it?";
+	$lang['forgot_password__success'] = "You have just received an email with your new password!";
+	$lang['forgot_password__error'] = "This account does not exist on Dev-Time!";
+	$lang['forgot__email_username'] = "Username or email of account";
+	$lang['api__developers'] = "API for developers";
 ?>
