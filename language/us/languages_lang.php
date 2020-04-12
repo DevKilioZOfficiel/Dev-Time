@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'US';
 	$lang['code_language_small_txt'] = 'us';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.0.7';
+	$lang['version_language'] = '1.0.8';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -473,4 +473,29 @@
 	$lang['forgot_password__error'] = "This account does not exist on Dev-Time!";
 	$lang['forgot__email_username'] = "Username or email of account";
 	$lang['api__developers'] = "API for developers";
+	
+	// 1.1.8 Sortie de la v7_bêta
+	$lang['your_gitlab'] = "Your Gitlab";
+	$lang['discord__get__premium'] = "Getting the Premium grade on Discord";
+	$lang['discord__get__developer'] = "Get the Developer grade on Discord";
+	$lang['gitlab_success'] = "Your gitlab has just been updated.";
+	$lang['share__project'] = "Share a project";
+	$lang['share__project__post'] = "Share this project in publication";
+	$lang['search__project'] = "Search a project";
+	$lang['my_profile'] = "My profile";
+	$lang['my_profile__infos'] = "Modify your nickname, banner, logo and much more!";
+	$lang['my_profile__advanced'] = "Add skills, training, customize your Premium badge and much more!";
+	$lang['delete__project__button'] = "Delete a project";
+	$lang['delete__project__success'] = "You have successfully deleted the project!";
+	
+	$lang['developement__blocked'] = "Option locked on the development version";
+	$lang['course__video'] = "Tutorial video";
+	$lang['course__demo'] = "Tutorial Demo";
+	$lang['course__download'] = "Tutorial files";
+	$lang['count__search'] = "There are %s research about you";
+	$lang['count__searchs'] = "There are %s researches about you";
+	$lang['members'] = "Members";
+	$lang['projects'] = "Projects";
+	$lang['required'] = "Required";
+	$lang['no_required'] = "No required";
 ?>

@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'CA';
 	$lang['code_language_small_txt'] = 'ca';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.1.7';
+	$lang['version_language'] = '1.1.8';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -473,4 +473,30 @@
 	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
 	$lang['forgot__email_username'] = "Pseudo ou email du compte";
 	$lang['api__developers'] = "API pour développeurs";
+	
+	
+	// 1.1.8 Sortie de la v7_bêta
+	$lang['your_gitlab'] = "Votre Gitlab";
+	$lang['discord__get__premium'] = "Obtenir le grade Premium sur Discord";
+	$lang['discord__get__developer'] = "Obtenir le grade Développeur sur Discord";
+	$lang['gitlab_success'] = "Votre gitlab vient d'être mis à jour";
+	$lang['share__project'] = "Partager un projet";
+	$lang['share__project__post'] = "Partager ce projet en publication";
+	$lang['search__project'] = "Rechercher un projet";
+	$lang['my_profile'] = "Mon profil";
+	$lang['my_profile__infos'] = "Modifiez votre pseudo, bannière, logo et bien plus !";
+	$lang['my_profile__advanced'] = "Ajouter des compétences, formations, customisez votre badge Premium et bien plus !";
+	$lang['delete__project__button'] = "Supprimer le projet";
+	$lang['delete__project__success'] = "Vous avez supprimé le projet avec succès !";
+	
+	$lang['developement__blocked'] = "Option bloqué sur la version de développement";
+	$lang['course__video'] = "Vidéo du tutoriel";
+	$lang['course__demo'] = "Démo du tutoriel";
+	$lang['course__download'] = "Fichiers du tutoriel";
+	$lang['count__search'] = "Il y a %s recherche à votre sujet";
+	$lang['count__searchs'] = "Il y a %s recherches à votre sujet";
+	$lang['members'] = "Membres";
+	$lang['projects'] = "Projets";
+	$lang['required'] = "Requis";
+	$lang['no_required'] = "Facultatif";
 ?>
