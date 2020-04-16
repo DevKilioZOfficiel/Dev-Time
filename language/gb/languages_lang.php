@@ -498,4 +498,8 @@
 	$lang['projects'] = "Projects";
 	$lang['required'] = "Required";
 	$lang['no_required'] = "No required";
+	
+	// 1.1.9
+	$lang['comment_delete__success'] = "This message has just been deleted!";
+	$lang['comment_delete__error'] = "This message is not deleted!";
 ?>
