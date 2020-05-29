@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'CA';
 	$lang['code_language_small_txt'] = 'ca';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.1.9';
+	$lang['version_language'] = '1.1.9.1';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -41,6 +41,7 @@
 	$lang['login_success'] = "Connexion en cours...";
 	$lang['error__account_not_found'] = "Votre compte n'existe pas sur Dev-Time";
 	$lang['error__account_suspend'] = "Votre compte est suspendu";
+	$lang['error__account_not_verified'] = "Votre compte n'a pas été vérifié. Vérifiez vos emails pour débloquer votre compte";
 	$lang['forgot_password_reset'] = "Rénitialiser";
 
 	$lang['chat_txt'] = "Discussions en cours";

@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'GB';
 	$lang['code_language_small_txt'] = 'gb';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.0.9';
+	$lang['version_language'] = '1.0.9.1';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -14,7 +14,7 @@
 	$lang['search_txt'] = 'Search...';
 
 	// HOME
-	$lang['welcome_message'] = "Welcome to the developers' social network! Find many other developers in different domains!";
+	$lang['welcome_message'] = "Welcome to the developers social network! Find many other developers in different domains!";
 
 	$lang['your_account'] = "Your account";
 	$lang['settings_account'] = "Settings";
@@ -41,6 +41,7 @@
 	$lang['login_success'] = "Connection in progress...";
 	$lang['error__account_not_found'] = "Your account does not exist on Dev-Time";
 	$lang['error__account_suspend'] = "Your account is suspended";
+	$lang['error__account_not_verified'] = "Your account has not been verified. Check your emails to unlock your account";
 	$lang['forgot_password_reset'] = "Re-initialize";
 
 	$lang['chat_txt'] = "Ongoing discussions";
