@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'CA';
 	$lang['code_language_small_txt'] = 'ca';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.1.9.1';
+	$lang['version_language'] = '1.2';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -504,4 +504,9 @@
 	// 1.1.9
 	$lang['comment_delete__success'] = "Ce message vient d'être supprimé !";
 	$lang['comment_delete__error'] = "Ce message n'est pas supprimé !";
+	
+	// 1.2
+	$lang['success_edit_newsletters'] = "Vous avez modifié la réception des newsletters sur Dev-Time !";
+	$lang['disable__newsletters'] = "Désactiver les newsletters";
+	$lang['activate__newsletters'] = "Activer les newsletters"
 ?>

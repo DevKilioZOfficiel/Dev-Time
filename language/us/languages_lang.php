@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'US';
 	$lang['code_language_small_txt'] = 'us';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.0.9.1';
+	$lang['version_language'] = '1.1';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -503,4 +503,9 @@
 	// 1.1.9
 	$lang['comment_delete__success'] = "This message has just been deleted!";
 	$lang['comment_delete__error'] = "This message is not deleted!";
+	
+	// 1.2
+	$lang['success_edit_newsletters'] = "You have changed the way you receive newsletters on Dev-Time!";
+	$lang['disable__newsletters'] = "Disable newsletters";
+	$lang['activate__newsletters'] = "Activate newsletters"
 ?>
