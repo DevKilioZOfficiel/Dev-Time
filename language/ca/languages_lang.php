@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'CA';
 	$lang['code_language_small_txt'] = 'ca';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.2';
+	$lang['version_language'] = '1.2.1';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -474,8 +474,7 @@
 	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
 	$lang['forgot__email_username'] = "Pseudo ou email du compte";
 	$lang['api__developers'] = "API pour développeurs";
-	
-	
+		
 	// 1.1.8 Sortie de la v7_bêta
 	$lang['your_gitlab'] = "Votre Gitlab";
 	$lang['discord__get__premium'] = "Obtenir le grade Premium sur Discord";
@@ -509,4 +508,17 @@
 	$lang['success_edit_newsletters'] = "Vous avez modifié la réception des newsletters sur Dev-Time !";
 	$lang['disable__newsletters'] = "Désactiver les newsletters";
 	$lang['activate__newsletters'] = "Activer les newsletters"
+	
+	// 1.2.1
+	$lang['invoices'] = "Factures";
+	$lang['invoices__date'] = "Date";
+	$lang['invoices__description'] = "Information";
+	$lang['invoices__price'] = "Prix";
+	$lang['invoices__method'] = "Méthode";
+	$lang['invoices__code'] = "Code";
+	$lang['invoices__etat'] = "Etat";
+	$lang['invoices__etat__valided'] = "Validé";
+	$lang['invoices__etat__canceled'] = "Annulé";
+	$lang['invoices__etat__blocked'] = "Bloqué";
+	$lang['invoices__etat__refunded'] = "Remboursé";
 ?>
