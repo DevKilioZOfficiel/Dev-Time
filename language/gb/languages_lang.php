@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'GB';
 	$lang['code_language_small_txt'] = 'gb';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.1';
+	$lang['version_language'] = '1.1.1';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -508,4 +508,17 @@
 	$lang['success_edit_newsletters'] = "You have changed the way you receive newsletters on Dev-Time!";
 	$lang['disable__newsletters'] = "Disable newsletters";
 	$lang['activate__newsletters'] = "Activate newsletters"
+	
+	// 1.2.1
+	$lang['invoices'] = "Invoices";
+	$lang['invoices__date'] = "Date";
+	$lang['invoices__description'] = "Information";
+	$lang['invoices__price'] = "Price";
+	$lang['invoices__method'] = "Méthod";
+	$lang['invoices__code'] = "Code";
+	$lang['invoices__etat'] = "Etat";
+	$lang['invoices__etat__valided'] = "Valided";
+	$lang['invoices__etat__canceled'] = "Caceled";
+	$lang['invoices__etat__blocked'] = "Blocked";
+	$lang['invoices__etat__refunded'] = "Refunded";
 ?>
