@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'CA';
 	$lang['code_language_small_txt'] = 'ca';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.2.1';
+	$lang['version_language'] = '1.2.2';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -521,4 +521,9 @@
 	$lang['invoices__etat__canceled'] = "Annulé";
 	$lang['invoices__etat__blocked'] = "Bloqué";
 	$lang['invoices__etat__refunded'] = "Remboursé";
+
+	// 1.2.2
+	$lang['post__clear'] = "Votre publication est vide. Veuillez le remplir avant de le publier.";
+	$lang['reply'] = "Répondre";
+	$lang['reply_user'] = "Répondre à %s";
 ?>
