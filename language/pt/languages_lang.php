@@ -187,7 +187,7 @@
 
     // 1.0.3 ADIÇÕES
     $lang['add_course'] = "Criar um tutorial";
-    $lang['choose_language'] = "Escolher o idioma"; 
+    $lang['choose_language'] = "Escolher o idioma";
     $lang['course__title'] = "Título do tutorial";
     $lang['course__button'] = "Publicar o tutorial";
     $lang['course__created'] = "Sucesso! O tutoriel está agora disponível no seu perfil!";
@@ -213,7 +213,7 @@
     $lang['logo'] = "Seu avatar";
     $lang['reason_delete'] = "Razão da exclusão";
     $lang['delete_account'] = "Excluir minha conta";
-    $lang['delete_account_success'] = "A sua conta foi excluida! Os seus dados estarão disponíveis durante 96h para poder cancelar o seu pedido caso mude de ideais."; 
+    $lang['delete_account_success'] = "A sua conta foi excluida! Os seus dados estarão disponíveis durante 96h para poder cancelar o seu pedido caso mude de ideais.";
     $lang['delete_account_error'] = "Oops! A senha senha está incorreta.";
 
     // 1.1 ADIÇÕES (1.0.6)
@@ -285,15 +285,15 @@
     $lang['publish_tweet'] = "Publicar tweet";
     $lang['tweet_publish_success'] = "O tweet acabou de ser publicado!";
     $lang['tweet_publish_error'] = "O tweet não foi publicado!";
-    
+
     $lang['course__premium'] = "Tutorial Premium";
     $lang['user__premium__about_us'] = "Membro Premium desde %s";
     $lang['user__premium'] = "Este utilisador é um membro Premium!";
-    
+
     $lang['report__reason'] = "Razão do report";
     $lang['blocked__message_01'] = "%s bloqueou você! É-lhe impossível ver as suas publicações!";
     $lang['blocked__message_02'] = "Você bloqueou %s! É-lhe impossível ver as suas publicações!";
-    
+
     $lang['add_credit'] = "Creditar conta";
     $lang['credit_success'] = "Código válido e você foi creditado de %s€!";
     $lang['credit_error'] = "O código %s é inválido!";
@@ -301,12 +301,12 @@
     $lang['premium'] = "Premium";
     $lang['expire_premium'] = "O Premium expira no dia %s";
     $lang['buy'] = "Comprar";
-    
+
     $lang['date'] = "d/m/Y \às H:i:s"; // Ver https://www.php.net/manual/pt_BR/function.date.php para mais informações
-    
+
     $lang['no'] = "Não";
     $lang['yes'] = "São";
-    
+
     $lang['paiement__success'] = "Pagamento completo! Você é agora %s!";
     $lang['paiement__error'] = "Erro durante o pagamento! Erro: %s!";
     $lang['paiement__error__money'] = "Dinheiro em falta";
@@ -315,7 +315,7 @@
     $lang['paiement__buy__add_credit'] = "Adicionar fundos";
     $lang['paiement__buy__premium'] = "Comprar suscrição Premium";
     $lang['money_actual'] = "Você tem %s€!";
-    
+
     $lang['change__design'] = "Trocar de design";
     $lang['design__input'] = "Design %s";
     $lang['design__updated'] = "Você acabou de modificar o seu design com sucesso!";
@@ -330,20 +330,20 @@
     $lang['create_badge__success'] = "Você acabou de criar o seu crachá com scuesso!";
     $lang['change_badge__success'] = "Você acabou de trocar de crachá com sucesso!";
     $lang['remove_custom_badge'] = "Remover crachá customizado";
-    
+
     $lang['boost__publication'] = "Destacar publicação";
     $lang['boost__publication_remove'] = "Remover destaque";
     $lang['boost__success_01'] = "Você acabou de destacar a publicação";
     $lang['boost__success_02'] = "Você acabou de remover o destaque da publicação";
     $lang['boost__message'] = "Destacado com sucesso!";
-    
+
     $lang['pub__create'] = "Criar uma publicidade";
     $lang['pub__url'] = "Link da publicidade";
     $lang['pub__file'] = "Imagem da publicidade";
     $lang['pub__button'] = "Publicar publicidade";
     $lang['pub__success'] = "Publicidade postada!";
     $lang['pub__error__limit'] = "Você atingiu o limite. A sua publicidade não foi postada";
-    
+
     $lang['sub__number'] = "%s tem %s seguidores";
     $lang['sub__number__2'] = "%s segue %s pessoas";
     $lang['sub__since'] = "Incrito desde";
@@ -369,7 +369,7 @@
     $lang['verify__error'] = "Oops! Código inválido!";
     $lang['verify__code'] = "Seu código de verificação";
     $lang['verify__button'] = "Verificar minha conta";
-	
+
 	// 1.1.4
 	$lang['pub__duration'] = "Durée de la publicité (en jours)";
 	$lang['pub__description'] = "Petite description de la publicité";
@@ -392,7 +392,7 @@
 	$lang['ext__profile__success'] = "Le profil vient d'être rajouté !";
 	$lang['ext__profile__error__add'] = "Le profil est déjà ajouté";
 	$lang['ext__no_account'] = "Vous n'avez pas encore ajouté de compte !";
-	
+
 	// 1.1.6
 	$lang['premium__promo_code'] = "Code promotionnel";
 	$lang['share__login__required'] = "Connexion requise pour partager votre lien !";
@@ -403,7 +403,7 @@
 	$lang['github_success'] = "Votre Github a été mis à jour !";
 	$lang['website_success'] = "Votre Site web a été mis à jour !";
 	$lang['branding'] = "Charte graphique";
-	
+
 	// FAQ (1.1.6)
 	$lang['default__faq__footer_txt01'] = "Liens utiles";
 	$lang['default__faq__footer_txt02'] = "Partenaires";
@@ -424,19 +424,19 @@
 	$lang['faq__results'] = "%s résultats trouvé pour:";
 	$lang['faq__result2'] = "%s résultat";
 	$lang['faq__results2'] = "%s résultats";
-	
+
 	// PARRAINAGE (1.1.6)
 	$lang['parrainage'] = "Parrainage";
 	$lang['parrainage_link'] = "Votre lien de parrainage est le suivant: %s";
 	$lang['parrainage_count'] = "Vous avez %s filleuls !";
 	$lang['parrainage_coming_soon'] = "Les bonus arrivent bientôt !";
-	
+
 	// Profil (1.1.6)
 	$lang['profile__anniversary_date'] = "Votre date de anniversaire";
 	$lang['profile__anniversary_your_day'] = "Bon anniversaire %s ! Vous fêtez vos %s ans !";
 	$lang['profile__anniversary_by_other_user'] = "C'est l'anniversaire de %s (%s ans) !";
 	$lang['edit__anniversary_date'] = "Votre date de naissance vient d'être mis à jour !";
-	
+
 	$lang['birthdays'] = "Anniversaires";
 	$lang['birthday'] = "Anniversaire";
 	$lang['birthday_today'] = "Anniversaires du jour";
@@ -455,13 +455,13 @@
 	$lang['december'] = "Décembre";
 	$lang['send_birthday_message'] = "Souhaiter son anniversaire";
 	$lang['birthday_message'] = "Salut %s! Je te souhaite un joyeux anniversaire.";
-	
+
 	$lang['during_your_absence'] = "Pendant votre absence";
 	$lang['posts__followers'] = "Publications de vos abonnements";
 	$lang['posts__alls'] = "Publications de tout le monde";
 	$lang['posts_user_count'] = "%s a publié %s publication";
 	$lang['posts_user_counts'] = "%s a publié %s publications";
-	
+
 	// 1.1.7
 	$lang['type_account'] = "Type de compte";
 	$lang['pro_account'] = "Passer en compte Pro";
@@ -472,7 +472,7 @@
 	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
 	$lang['forgot__email_username'] = "Pseudo ou email du compte";
 	$lang['api__developers'] = "API pour développeurs";
-	
+
 	// 1.1.8 Sortie de la v7_bêta
 	$lang['your_gitlab'] = "Votre Gitlab";
 	$lang['discord__get__premium'] = "Obtenir le grade Premium sur Discord";
@@ -486,7 +486,7 @@
 	$lang['my_profile__advanced'] = "Ajouter des compétences, formations, customisez votre badge Premium et bien plus !";
 	$lang['delete__project__button'] = "Supprimer le projet";
 	$lang['delete__project__success'] = "Vous avez supprimé le projet avec succès !";
-	
+
 	$lang['developement__blocked'] = "Option bloqué sur la version de développement";
 	$lang['course__video'] = "Vidéo du tutoriel";
 	$lang['course__demo'] = "Démo du tutoriel";
@@ -497,16 +497,16 @@
 	$lang['projects'] = "Projets";
 	$lang['required'] = "Requis";
 	$lang['no_required'] = "Facultatif";
-	
+
 	// 1.1.9
 	$lang['comment_delete__success'] = "Ce message vient d'être supprimé !";
 	$lang['comment_delete__error'] = "Ce message n'est pas supprimé !";
-	
+
 	// 1.2
 	$lang['success_edit_newsletters'] = "Vous avez modifié la réception des newsletters sur Dev-Time !";
 	$lang['disable__newsletters'] = "Désactiver les newsletters";
 	$lang['activate__newsletters'] = "Activer les newsletters"
-	
+
 	// 1.2.1
 	$lang['invoices'] = "Factures";
 	$lang['invoices__date'] = "Date";
@@ -519,4 +519,18 @@
 	$lang['invoices__etat__canceled'] = "Annulé";
 	$lang['invoices__etat__blocked'] = "Bloqué";
 	$lang['invoices__etat__refunded'] = "Remboursé";
+
+  // 1.2.2
+	$lang['post__clear'] = "Votre publication est vide. Veuillez le remplir avant de le publier.";
+	$lang['reply'] = "Répondre";
+	$lang['reply_user'] = "Répondre à %s";
+
+	// 1.2.3
+	$lang['servers__not__online'] = "Une panne est détecté sur un de nos serveurs";
+	$lang['servers__all__online'] = "Nos serveurs sont tous opérationnels !";
+	$lang['servers__last__refresh'] = "Dernière actualisation";
+	$lang['stories'] = "Stories";
+	$lang['publish_storie'] = "Publier ma storie";
+	$lang['publish_storie_success'] = "Votre storie est publiée avec succès !";
+	$lang['publish_storie_error'] = "Une erreur est survenue lors de la publication.";
 ?>

@@ -4,7 +4,7 @@
 	$lang['code_language'] = 'FR';
 	$lang['code_language_small_txt'] = 'fr';
 	$lang['author_language'] = 'KilioZ';
-	$lang['version_language'] = '1.2.2';
+	$lang['version_language'] = '1.2.3';
 
 	// MENU
 	$lang['navigation'] = "Navigation";
@@ -394,7 +394,7 @@
 	$lang['ext__profile__success'] = "Le profil vient d'être rajouté !";
 	$lang['ext__profile__error__add'] = "Le profil est déjà ajouté";
 	$lang['ext__no_account'] = "Vous n'avez pas encore ajouté de compte !";
-	
+
 	// 1.1.6
 	$lang['premium__promo_code'] = "Code promotionnel";
 	$lang['share__login__required'] = "Connexion requise pour partager votre lien !";
@@ -405,7 +405,7 @@
 	$lang['github_success'] = "Votre Github a été mis à jour !";
 	$lang['website_success'] = "Votre Site web a été mis à jour !";
 	$lang['branding'] = "Charte graphique";
-	
+
 	// FAQ (1.1.6)
 	$lang['default__faq__footer_txt01'] = "Liens utiles";
 	$lang['default__faq__footer_txt02'] = "Partenaires";
@@ -426,19 +426,19 @@
 	$lang['faq__results'] = "%s résultats trouvé pour:";
 	$lang['faq__result2'] = "%s résultat";
 	$lang['faq__results2'] = "%s résultats";
-	
+
 	// PARRAINAGE (1.1.6)
 	$lang['parrainage'] = "Parrainage";
 	$lang['parrainage_link'] = "Votre lien de parrainage est le suivant: %s";
 	$lang['parrainage_count'] = "Vous avez %s filleuls !";
 	$lang['parrainage_coming_soon'] = "Les bonus arrivent bientôt !";
-	
+
 	// Profil (1.1.6)
 	$lang['profile__anniversary_date'] = "Votre date de anniversaire";
 	$lang['profile__anniversary_your_day'] = "Bon anniversaire %s ! Vous fêtez vos %s ans !";
 	$lang['profile__anniversary_by_other_user'] = "C'est l'anniversaire de %s (%s ans) !";
 	$lang['edit__anniversary_date'] = "Votre date de naissance vient d'être mis à jour !";
-	
+
 	$lang['birthdays'] = "Anniversaires";
 	$lang['birthday'] = "Anniversaire";
 	$lang['birthday_today'] = "Anniversaires du jour";
@@ -457,13 +457,13 @@
 	$lang['december'] = "Décembre";
 	$lang['send_birthday_message'] = "Souhaiter son anniversaire";
 	$lang['birthday_message'] = "Salut %s! Je te souhaite un joyeux anniversaire.";
-	
+
 	$lang['during_your_absence'] = "Pendant votre absence";
 	$lang['posts__followers'] = "Publications de vos abonnements";
 	$lang['posts__alls'] = "Publications de tout le monde";
 	$lang['posts_user_count'] = "%s a publié %s publication";
 	$lang['posts_user_counts'] = "%s a publié %s publications";
-	
+
 	// 1.1.7
 	$lang['type_account'] = "Type de compte";
 	$lang['pro_account'] = "Passer en compte Pro";
@@ -474,7 +474,7 @@
 	$lang['forgot_password__error'] = "Ce compte n'existe pas sur Dev-Time !";
 	$lang['forgot__email_username'] = "Pseudo ou email du compte";
 	$lang['api__developers'] = "API pour développeurs";
-	
+
 	// 1.1.8 Sortie de la v7_bêta
 	$lang['your_gitlab'] = "Votre Gitlab";
 	$lang['discord__get__premium'] = "Obtenir le grade Premium sur Discord";
@@ -488,7 +488,7 @@
 	$lang['my_profile__advanced'] = "Ajouter des compétences, formations, customisez votre badge Premium et bien plus !";
 	$lang['delete__project__button'] = "Supprimer le projet";
 	$lang['delete__project__success'] = "Vous avez supprimé le projet avec succès !";
-	
+
 	$lang['developement__blocked'] = "Option bloqué sur la version de développement";
 	$lang['course__video'] = "Vidéo du tutoriel";
 	$lang['course__demo'] = "Démo du tutoriel";
@@ -499,16 +499,16 @@
 	$lang['projects'] = "Projets";
 	$lang['required'] = "Requis";
 	$lang['no_required'] = "Facultatif";
-	
+
 	// 1.1.9
 	$lang['comment_delete__success'] = "Ce message vient d'être supprimé !";
 	$lang['comment_delete__error'] = "Ce message n'est pas supprimé !";
-	
+
 	// 1.2
 	$lang['success_edit_newsletters'] = "Vous avez modifié la réception des newsletters sur Dev-Time !";
 	$lang['disable__newsletters'] = "Désactiver les newsletters";
 	$lang['activate__newsletters'] = "Activer les newsletters";
-	
+
 	// 1.2.1
 	$lang['invoices'] = "Factures";
 	$lang['invoices__date'] = "Date";
@@ -521,9 +521,18 @@
 	$lang['invoices__etat__canceled'] = "Annulé";
 	$lang['invoices__etat__blocked'] = "Bloqué";
 	$lang['invoices__etat__refunded'] = "Remboursé";
-	
+
 	// 1.2.2
 	$lang['post__clear'] = "Votre publication est vide. Veuillez le remplir avant de le publier.";
 	$lang['reply'] = "Répondre";
 	$lang['reply_user'] = "Répondre à %s";
+
+	// 1.2.3
+	$lang['servers__not__online'] = "Une panne est détecté sur un de nos serveurs";
+	$lang['servers__all__online'] = "Nos serveurs sont tous opérationnels !";
+	$lang['servers__last__refresh'] = "Dernière actualisation";
+	$lang['stories'] = "Stories";
+	$lang['publish_storie'] = "Publier ma storie";
+	$lang['publish_storie_success'] = "Votre storie est publiée avec succès !";
+	$lang['publish_storie_error'] = "Une erreur est survenue lors de la publication.";
 ?>
